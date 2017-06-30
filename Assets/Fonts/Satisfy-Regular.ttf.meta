@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5fdb178725c2242f1b1a18c537c50160
+timeCreated: 1498795796
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Satisfy
+  fontNames:
+  - Satisfy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

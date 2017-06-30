@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 960c371a3e3864d53a74c02555b83e6d
+timeCreated: 1498795793
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marck Script
+  fontNames:
+  - Marck Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
