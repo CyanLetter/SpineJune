@@ -4,6 +4,8 @@
 
 All game assets are free to use. If you make something cool, we'd love to check it out!
 
+Download the [Mac build](https://github.com/CyanLetter/SpineJune/releases/download/v1.0/SpoopyWoods_03.app.zip)
+
 ## Credit
 
 Animation and art by [Dianna Bedell](http://radjulon.tumblr.com/)
