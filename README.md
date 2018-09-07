@@ -1,5 +1,7 @@
 # Spoopy Woods
 
+![Spoopy Woods](./Assets/Textures/ScenePreview.png)
+
 ...or Spine June, or Spine Unity Demo, or whatever. This is a quick project, put together over a couple of weeks worth of spare time. It is meant to be a technical demo of Spine animation and 2D lighting in Unity. For those digging into it, it is also a horrible mess.
 
 All game assets are free to use. If you make something cool, we'd love to check it out!
